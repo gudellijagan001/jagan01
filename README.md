@@ -1,10 +1,12 @@
 # jagan01
 
-[lab1] [part-1] (https://github.com/gudellijagan001/jagan01/blob/main/assi_1_part_1_.ipynb)
+[lab-1] [part-1] (https://github.com/gudellijagan001/jagan01/blob/main/assi_1_part_1_.ipynb)
 
 [lab-1] [part-2] (https://github.com/gudellijagan001/jagan01/blob/main/assi_1_part_2.ipynb)
 
 [lab-2] (https://github.com/gudellijagan001/jagan01/blob/main/lab_2.ipynb)
+
+[lab-3] (https://github.com/gudellijagan001/jagan01/blob/main/LAB_03.ipynb
 
 [lab-4] (https://github.com/gudellijagan001/jagan01/blob/main/Untitled3.ipynb)
 
