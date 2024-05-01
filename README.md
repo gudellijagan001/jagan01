@@ -16,6 +16,8 @@
 
 [lab-7] (https://github.com/gudellijagan001/jagan01/blob/main/Lab_7.ipynb)
 
+[lab-8] (https://github.com/gudellijagan001/jagan01/blob/main/LAB_08.ipynb)
+
 [lab-9] (https://github.com/gudellijagan001/jagan01/blob/main/LAB_09.ipynb)
 
 [lab-10] (https://github.com/gudellijagan001/jagan01/blob/main/lab_10.ipynb)
