@@ -11,3 +11,5 @@
 [lab-5] (https://github.com/gudellijagan001/jagan01/blob/main/assignment5.ipynb)
 
 [lab-6] (https://github.com/gudellijagan001/jagan01/blob/main/assi_6.ipynb)
+
+[lab-10] (https://github.com/gudellijagan001/jagan01/blob/main/lab_10.ipynb)
